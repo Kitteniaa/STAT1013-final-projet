@@ -1,3 +1,17 @@
+---
+jupyter:
+  colab:
+  kernelspec:
+    display_name: Python 3
+    name: python3
+  language_info:
+    name: python
+  nbformat: 4
+  nbformat_minor: 0
+---
+
+<div class="cell markdown" id="iwm2dVgaYjJW">
+
 # Stat1013 Project Part 1
 
 </div>
@@ -208,3 +222,4 @@ plt.show()
 </div>
 
 </div>
+
